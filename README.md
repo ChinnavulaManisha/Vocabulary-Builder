@@ -1,8 +1,8 @@
-📚 Vocabulary Builder Chatbot
+# 📚 Vocabulary Builder Chatbot
 
 Vocabulary Builder is a lightweight web application that helps users learn 5 new English words daily. It provides meanings, synonyms, antonyms, and examples in an interactive chatbot interface. The app includes Light & Dark mode and is fully built using pure HTML, CSS, and JavaScript — no backend required.
 
-✨ Features
+# ✨ Features
 
 🧠 Daily 5 new vocabulary words
 
@@ -20,7 +20,7 @@ Vocabulary Builder is a lightweight web application that helps users learn 5 new
 
 🗂 Simple, clean, and fast — runs in any browser
 
-🛠 Tech Stack
+ # 🛠 Tech Stack
 
 HTML
 
@@ -32,7 +32,7 @@ LocalStorage for saving data
 
 Optional: Tailwind CSS (for styling)
 
-📌 How It Works
+# 📌 How It Works
 
 The app loads 5 new words from a local word list (JSON/JS array).
 
@@ -42,7 +42,7 @@ Users can switch between light mode and dark mode with smooth transitions.
 
 Saved words are stored in browser LocalStorage for later revision.
 
-🔮 Future Enhancements
+# 🔮 Future Enhancements
 
 Animated chatbot avatar
 
